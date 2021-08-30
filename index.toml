@@ -469,11 +469,6 @@ hash = "4d8e311990d13d899b285e95bf4163fa736980e7a8b952711ceab364bfd1f22d"
 metafile = true
 
 [[files]]
-file = "mods/hydrogen.toml"
-hash = "153cda3c6d61ae9b32117fe5315ee40a0bd561b7292d9a5927773a368b52c254"
-metafile = true
-
-[[files]]
 file = "mods/indium.toml"
 hash = "ab27efec396c923a7e760dd00e606ad99a7f47a2e5e880af1b88bd820c04da2b"
 metafile = true
