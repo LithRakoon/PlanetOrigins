@@ -1,0 +1,12 @@
+name = "Planet Origins"
+author = "Lith"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a3d14a46d18947e1f6b30fc64be5abd39e66e6a227182f773952c4ff924a58b2"
+
+[versions]
+fabric = "0.11.6"
+minecraft = "1.16.5"

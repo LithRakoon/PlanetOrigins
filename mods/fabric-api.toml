@@ -1,0 +1,14 @@
+name = "Fabric API"
+filename = "fabric-api-0.39.2+1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3439/33/fabric-api-0.39.2+1.16.jar"
+hash-format = "murmur2"
+hash = "4152760627"
+
+[update]
+[update.curseforge]
+file-id = 3439033
+project-id = 306612
+release-channel = "beta"
