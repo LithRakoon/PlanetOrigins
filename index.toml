@@ -11,6 +11,11 @@ hash = "fa128fbd62e2d2955c4f8cce6a51129a4c6aa635672a80bb2672d7726ab36a92"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.toml"
+hash = "d7b97d8b30d125d2f9a90fb6c58d5393d398711c1e16cc9d8c6936be256c66bf"
+metafile = true
+
+[[files]]
 file = "mods/clear-skies.toml"
 hash = "81a26e5c4061917422c55006b1d42a8a08f28c5559876f4ae3f1c9fd4d83911d"
 metafile = true
