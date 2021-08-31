@@ -1,14 +1,14 @@
 name = "Origins"
-filename = "Origins-1.16.5-0.7.3.jar"
+filename = "Origins-1.16.5-0.7.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3319/81/Origins-1.16.5-0.7.3.jar"
+url = "https://edge.forgecdn.net/files/3260/684/Origins-1.16.5-0.7.0.jar"
 hash-format = "murmur2"
-hash = "3070985783"
+hash = "3554199444"
 
 [update]
 [update.curseforge]
-file-id = 3319081
+file-id = 3260684
 project-id = 391943
 release-channel = "beta"

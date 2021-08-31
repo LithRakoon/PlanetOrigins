@@ -11,11 +11,6 @@ hash = "fa128fbd62e2d2955c4f8cce6a51129a4c6aa635672a80bb2672d7726ab36a92"
 metafile = true
 
 [[files]]
-file = "mods/cinderscapes.toml"
-hash = "3c13a6344dff049188e127a5ddabb577c3fc5a8eca679517a3bd0de4f05c9abb"
-metafile = true
-
-[[files]]
 file = "mods/clear-skies.toml"
 hash = "81a26e5c4061917422c55006b1d42a8a08f28c5559876f4ae3f1c9fd4d83911d"
 metafile = true
@@ -47,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "1f3201a233e926db8834ee0cf207394346f27340f8c4b0f4a1bca0b40c01f490"
+hash = "abde5514be2ef1b730e2e2140b9b5d761cfacb75d902d5502e896495eecc5b21"
 metafile = true
 
 [[files]]
@@ -117,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/origins.toml"
-hash = "e4d76939a618d319771c58db67866281c8eafbe90835701c838bcc1a24023782"
+hash = "ccf8d25a24368e5697a074f73b19708e6c16724fa97413b13e2cd5af55090b83"
 metafile = true
 
 [[files]]
 file = "mods/pehkui.toml"
-hash = "8c6f10aab81c33088ad9985e86bfd753de63748e6c42da1bcc0f97924f30e904"
+hash = "11d25bc54172cbcbbe5f8eeea4eea62bac0e40e46c489957260916eae49571ce"
 metafile = true
 
 [[files]]
