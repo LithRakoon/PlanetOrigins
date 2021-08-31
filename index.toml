@@ -126,6 +126,11 @@ hash = "e4d76939a618d319771c58db67866281c8eafbe90835701c838bcc1a24023782"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.toml"
+hash = "8c6f10aab81c33088ad9985e86bfd753de63748e6c42da1bcc0f97924f30e904"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "1e06139deec8b03ae4f0b471d9b8a04750dbacabd6f91391230caa86e2487104"
 metafile = true
