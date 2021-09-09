@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/cinderscapes.toml"
-hash = "d7b97d8b30d125d2f9a90fb6c58d5393d398711c1e16cc9d8c6936be256c66bf"
+hash = "fd846a51d6f728a70c291e02b39dd26c324f48891931ea91f2589e96196f3095"
 metafile = true
 
 [[files]]
@@ -41,13 +41,13 @@ hash = "d0b9148b7ab3ae0f3e62a9b851dde3911c28d6010b7c69766fe9c13ecdb9e263"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.toml"
-hash = "71bfd5dfd3c288a0b5d1c4bb0a433d343baae092e76573dc8f764a100b6343b1"
+file = "mods/fabric-language-kotlin.toml"
+hash = "fc01dca8a92724ac74d2a848b3aa06e70a3b05cb10fdb91c684abe684459ac1a"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.toml"
-hash = "fc01dca8a92724ac74d2a848b3aa06e70a3b05cb10fdb91c684abe684459ac1a"
+file = "mods/fast-furnace-for-fabric.toml"
+hash = "7f4c8dc9409176cadc1c9e779bd6c8f5694e1f14dbc69ded0b7149b081b4644f"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "68939121c8988d28fb6cab36c771dccf111c5d0153e2d50f1a6b7a9dc2c4db1b"
+hash = "71064e5d63eda47d6e51f4c2af8c649e40d0daa86522b34b98d16c10780fa9bd"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins.toml"
-hash = "ccf8d25a24368e5697a074f73b19708e6c16724fa97413b13e2cd5af55090b83"
+hash = "e4d76939a618d319771c58db67866281c8eafbe90835701c838bcc1a24023782"
 metafile = true
 
 [[files]]
@@ -147,10 +147,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "859b72108c9a7632bdb690dfb234685607fc8c74332af448c085a96ae51e29a7"
+hash = "a42354273894cd3cb2a781df9a519879e1b1b20418d67f89d623e865cafefc60"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "a0ed6899cf9e7574fe75a17b45ed86a5bd2be9ce9c5f9306c1494821648101f6"
+hash = "9d446db4ba0d96900cb33a8cfc53f4ab4b2448a166a699d76cdb7705abb12e6d"
 metafile = true

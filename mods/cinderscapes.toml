@@ -1,14 +1,14 @@
 name = "Cinderscapes"
-filename = "cinderscapes-1.3.3.jar"
+filename = "cinderscapes-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3189/140/cinderscapes-1.3.3.jar"
+url = "https://edge.forgecdn.net/files/3424/696/cinderscapes-1.4.0.jar"
 hash-format = "murmur2"
-hash = "2202298815"
+hash = "4152586680"
 
 [update]
 [update.curseforge]
-file-id = 3189140
+file-id = 3424696
 project-id = 391429
 release-channel = "beta"
