@@ -12,3 +12,7 @@ hash = "4193033432"
 file-id = 3438622
 project-id = 263420
 release-channel = "beta"
+
+[option]
+optional = true
+description = ""
