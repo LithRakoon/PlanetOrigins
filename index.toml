@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bobby.toml"
+hash = "a00e38d69ac25ee7f077b0915dcbfb5f3fcd3f2486aada8b8d80ba5a50b1653c"
+metafile = true
+
+[[files]]
 file = "mods/capes.toml"
 hash = "bfdcff3dbbb6cd4c27472b54050ab0d77c38c652430aa0b1fb8156ee5234f6c5"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "1e06139deec8b03ae4f0b471d9b8a04750dbacabd6f91391230caa86e2487104"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "3388f1488460e5d2d16e9c079db90258179ec4ec221fb8d75f5a6d769908990d"
 metafile = true
 
 [[files]]

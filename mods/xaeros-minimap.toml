@@ -15,4 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
-description = ""
+description = "adds a minimap [Xearos world map needed]"
