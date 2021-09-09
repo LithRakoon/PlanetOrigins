@@ -1,6 +1,6 @@
 name = "Planet Origins"
 author = "Lith"
-version = "1.0.0"
+version = "2.0.0"
 
 [index]
 file = "index.toml"
