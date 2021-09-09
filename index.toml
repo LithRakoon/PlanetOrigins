@@ -136,11 +136,6 @@ hash = "1e06139deec8b03ae4f0b471d9b8a04750dbacabd6f91391230caa86e2487104"
 metafile = true
 
 [[files]]
-file = "mods/recipe-cache.toml"
-hash = "67953d0409e6d0b8ef7bf6966eb49cffcc2db55e2f904f367d152e6c1f65cca4"
-metafile = true
-
-[[files]]
 file = "mods/terrestria.toml"
 hash = "f09f62674c0f3b61c80bcf21c393962140249b14a39ab2d29f4c2c92cd15c252"
 metafile = true
