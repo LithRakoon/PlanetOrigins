@@ -15,4 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
-description = "Adds a minimap. Xearos minimap needed. MINIMAPS MAY CAUSE A PERFORMANCE LOSS"
+description = "Adds a minimap Xearos minimap needed MINIMAPS MAY CAUSE A PERFORMANCE LOSS"
