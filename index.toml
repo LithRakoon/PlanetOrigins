@@ -36,11 +36,6 @@ hash = "fdbea3866d3751cd6522fe0fbf18673aca921bc3efd3731d05cbeb8eb8e2a5a3"
 metafile = true
 
 [[files]]
-file = "mods/ctm-fabric.toml"
-hash = "30b242ae21736671b09c3670e9f0e472a2348b4ec51cbb0608d6288dd9c22004"
-metafile = true
-
-[[files]]
 file = "mods/custom-entity-models-cem.toml"
 hash = "37d1ef68029e9b452c2f92bcb9d10d80a9f4483b2487c59b1339b5e0e1912dd5"
 metafile = true
